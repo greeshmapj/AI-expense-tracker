@@ -1,0 +1,25 @@
+Date,Description,Amount,Category,Input Mode
+15-05-2026,did grocery shopping for 1548.90,1548.9,Grocery,Manual
+17-05-2026,2 movie tickets for Rs 600,0.0,Entertainment,Voice
+16-05-2026,bought ice cream for Rs. 250,250.0,Food,Manual
+17-05-2026,Rs 400,0.0,Transport,Voice
+14-05-2026,bought chcikenfor Rs 300,300.0,Food,Voice
+17-05-2026,took Uber for Rs 250,250.0,Transport,Voice
+2026-05-13,Movie Tickets,867.0,Entertainment,Manual
+2026-02-12,hospital bill,660.0,Healthcare,Receipt OCR
+2026-05-12,had dinner,900.0,Food,Manual
+2026-05-08,went to saloon for haircut,999.0,Transport,Manual
+2026-05-20,Held birthday party(lunch) for rs. 6000,3540.0,Food,Manual
+2026-05-19,had snacks(food) ,95.0,Food,Manual
+2026-03-12,grocery,4500.0,Grocery,Manual
+2026-03-26,went to movies,999.0,Transport,Manual
+2026-03-09,Blood test(health check up),759.0,Healthcare,Manual
+2026-03-14,Entertainment - lulu funzone weekend,2500.0,Transport,Manual
+2026-03-02,ott recharge,1500.0,Entertainment,Manual
+2026-04-08,online food order ,689.0,Food,Manual
+2026-04-14,trip booking,6000.0,Travel,Manual
+2026-04-16,taxi booking,3900.0,Transport,Manual
+2026-04-09,mall clothing bill,5200.0,Clothing,Manual
+2026-03-01,wifi recharge,1099.0,Bills,Manual
+2026-04-01,wifi recharge,1099.0,Bills,Manual
+2026-05-01,wifi recharge,1099.0,Bills,Manual

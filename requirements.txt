@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+opencv-python
+pillow
+pytesseract
+matplotlib
+seaborn
+SpeechRecognition
+pyaudio
